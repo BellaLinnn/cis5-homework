@@ -1,0 +1,6 @@
+﻿  Lin_Qinlin_Project4C.cpp
+C:\Users\zihan\OneDrive\桌面\c++\Lin_Qinlin_Priject4C.cpp\Lin_Qinlin_Project4C.cpp(16,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\zihan\OneDrive\桌面\c++\Lin_Qinlin_Priject4C.cpp\Lin_Qinlin_Project4C.cpp(17,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\zihan\OneDrive\桌面\c++\Lin_Qinlin_Priject4C.cpp\Lin_Qinlin_Project4C.cpp(18,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\zihan\OneDrive\桌面\c++\Lin_Qinlin_Priject4C.cpp\Lin_Qinlin_Project4C.cpp(75,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Lin_Qinlin_Priject4C.cpp.vcxproj -> C:\Users\zihan\OneDrive\桌面\c++\Lin_Qinlin_Priject4C.cpp\Debug\Lin_Qinlin_Priject4C.cpp.exe

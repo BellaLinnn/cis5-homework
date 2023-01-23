@@ -1,0 +1,2 @@
+﻿  Lin_Qinlin_Program2B.cpp
+C:\Users\zihan\OneDrive\桌面\c++\Lin_Qinlin_Program2B.cpp\Lin_Qinlin_Program2B.cpp(23): error C4700: uninitialized local variable 'FoodItems' used
